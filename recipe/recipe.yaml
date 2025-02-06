@@ -1,5 +1,5 @@
 context:
-  version: "7.1.5"
+  version: "7.1.6"
 
 package:
   name: titanium
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/titanium/-/titanium-${{ version }}.tgz
-  sha256: e7f82782ec7adb56520a41e037ff8009dc99dd295da6d23c71eff82f13c3d8f6
+  sha256: 799c8db961e2cef7d3b379198ac0eac8c5f12327c18a16cd07ee5b81c5796782
 
 build:
   number: 0
